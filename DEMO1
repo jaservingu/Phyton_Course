@@ -1,0 +1,12 @@
+a = ("HOLA DE MUNDO")
+
+print(a)
+
+a = ("HOLA DE MUNDO NEW")
+
+print(a)
+
+
+
+
+
